@@ -22,10 +22,11 @@ I am a frontend developer 💻
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=Next&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -34,7 +35,7 @@ I am a frontend developer 💻
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-StyledComponent-informational?style=flat&logo=StyledComponent&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Styled-Component-informational?style=flat&logo=Styled-Component&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Mui-informational?style=flat&logo=Mui&logoColor=white&color=4AB197)
 
 <br>
