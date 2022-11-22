@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=calm)
 <br/>
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=calm)
+![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=calm)
 
