@@ -35,7 +35,7 @@ I am a frontend developer 💻
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Styled-Component-informational?style=flat&logo=Styled-Component&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Component-informational?style=flat&logo=Styled-Component&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Mui-informational?style=flat&logo=Mui&logoColor=white&color=4AB197)
 
 <br>
