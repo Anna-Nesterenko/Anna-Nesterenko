@@ -2,18 +2,12 @@
 I am a frontend developer 💻
 
 🕸️ Resume: 
-🌱 I’m currently learning Node.js and Typescript
-📫 How to reach me: 
-REACT /  JS /  HTML /  CSS /  NODE / 
-<!--
-**Anna-Nesterenko/Anna-Nesterenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-🕸️ Resume: 
 🔭 I’m currently working on ...
 🌱 I’m currently learning Node.js and Typescript
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anna-nesterenko-developer/)
+
 ## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/Anna-Nesterenko/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=swift" />
 </a>
