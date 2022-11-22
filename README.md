@@ -37,7 +37,6 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
 </details>
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
