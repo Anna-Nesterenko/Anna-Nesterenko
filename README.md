@@ -10,6 +10,7 @@ REACT /  JS /  HTML /  CSS /  NODE /
 
 
 🕸️ Resume: 
+🔭 I’m currently working on ...
 🌱 I’m currently learning Node.js and Typescript
 📫 How to reach me: 
 
@@ -29,3 +30,13 @@ REACT /  JS /  HTML /  CSS /  NODE /
 <a href="https://github.com/Anna-Nesterenko/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=swift&custom_title=GitHub_Stats&hide=issues" />
 </a>
+
+<details>
+<summary>More Skills</summary>
+
+[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+...
+</details>
