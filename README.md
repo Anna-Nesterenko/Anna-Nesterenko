@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Anna
+## Hi there 👋, my name is Anna
 I'm a frontend developer 💻 Now looking for my team and my work position.
 
 🕸️ Want to know more about me? [Check out my portfolio.](https://drive.google.com/file/d/1ZsttahYCaniMaE-G3ZXbbVLyc36_s_jx/view?usp=share_link)<br>
