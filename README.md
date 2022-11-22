@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Anna
 I am a frontend developer 💻
 
-🕸️ Resume: 
-🔭 I’m currently working on ...
-🌱 I’m currently learning Node.js and Typescript
+🕸️ Want to know more about me? [Check out my portfolio.](https://drive.google.com/file/d/1ZsttahYCaniMaE-G3ZXbbVLyc36_s_jx/view?usp=share_link)<br>
+🔭 I’m currently working on ...<br>
+🌱 I’m currently learning Node.js and Typescript<br>
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anna-nesterenko-developer/)
 
 ## &#x1f4c8; GitHub Stats
@@ -18,7 +18,6 @@ I am a frontend developer 💻
 <br>
 
 ## 💼 Skills
-
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
