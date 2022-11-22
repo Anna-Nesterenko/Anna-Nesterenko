@@ -5,9 +5,7 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 🔭 I'm currently working on developing my pet project<br>
 🌱 I’m currently learning Node.js and Typescript<br>
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/anna-nesterenko-developer/)
-
 <br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -41,7 +39,9 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
 </details>
+
 <br>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Anna-Nesterenko/github-readme-stats">
