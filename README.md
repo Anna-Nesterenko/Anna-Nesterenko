@@ -38,7 +38,9 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 
 </details>
 
-## &#x1f4c8; GitHub Stats
+<details>
+<summary>## &#x1f4c8; GitHub Stats</summary>
+<br>
 
 <a href="https://github.com/Anna-Nesterenko/github-readme-stats">
   <img align="center"  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=vue-dark" />
@@ -46,3 +48,4 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 <a href="https://github.com/Anna-Nesterenko/convoychat">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=vue-dark&custom_title=GitHub_Stats&hide=issues" />
 </a>
+</details>
