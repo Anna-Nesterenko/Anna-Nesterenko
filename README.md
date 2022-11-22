@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=swift)
-![Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=swift)
-
 <a href="https://github.com/Anna-Nesterenko/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=swift" />
 </a>
