@@ -1,10 +1,17 @@
 ### Hi there 👋, my name is Anna
 I am a frontend developer 💻
 
+🕸️ Resume: 
+🌱 I’m currently learning Node.js and Typescript
+📫 How to reach me: 
+REACT /  JS /  HTML /  CSS /  NODE / 
 <!--
 **Anna-Nesterenko/Anna-Nesterenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+🕸️ Resume: 
+🌱 I’m currently learning Node.js and Typescript
+📫 How to reach me: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
