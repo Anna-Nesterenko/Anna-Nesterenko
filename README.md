@@ -6,15 +6,6 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 🌱 I’m currently learning Node.js and Typescript<br>
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/anna-nesterenko-developer/)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Anna-Nesterenko/github-readme-stats">
-  <img align="center"  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=vue-dark" />
-</a>
-<a href="https://github.com/Anna-Nesterenko/convoychat">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=vue-dark&custom_title=GitHub_Stats&hide=issues" />
-</a>
-
 <br>
 
 ## 💼 Skills
@@ -50,3 +41,12 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
 </details>
+<br>
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Anna-Nesterenko/github-readme-stats">
+  <img align="center"  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=vue-dark" />
+</a>
+<a href="https://github.com/Anna-Nesterenko/convoychat">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=vue-dark&custom_title=GitHub_Stats&hide=issues" />
+</a>
