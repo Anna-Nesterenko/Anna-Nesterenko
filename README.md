@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=slateorange)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anna-Nesterenko&repo=github-readme-stats)]
+
