@@ -39,7 +39,7 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 </details>
 
 <details>
-## &#x1f4c8; <summary>GitHub Stats</summary>
+<summary> &#x1f4c8; GitHub Stats</summary>
 <br>
 
 <a href="https://github.com/Anna-Nesterenko/github-readme-stats">
