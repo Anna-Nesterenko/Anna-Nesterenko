@@ -26,8 +26,6 @@ I'm a frontend developer 💻 Now looking for my team and my work position.
 ![](https://img.shields.io/badge/Style-StyledComponent-informational?style=flat&logo=Styled-Styled-Component&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Mui-informational?style=flat&logo=Mui&logoColor=white&color=4AB197)
 
-<br>
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
