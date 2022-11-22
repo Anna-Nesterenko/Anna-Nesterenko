@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Anna
-I am a frontend developer 💻
+I'm a frontend developer 💻 Now looking for my team and my work position.
 
 🕸️ Want to know more about me? [Check out my portfolio.](https://drive.google.com/file/d/1ZsttahYCaniMaE-G3ZXbbVLyc36_s_jx/view?usp=share_link)<br>
-🔭 I’m currently working on ...<br>
+🔭 I'm currently working on developing my pet project<br>
 🌱 I’m currently learning Node.js and Typescript<br>
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anna-nesterenko-developer/)
 
