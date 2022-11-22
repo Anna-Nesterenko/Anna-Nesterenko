@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=swift" />
 </a>
 <a href="https://github.com/Anna-Nesterenko/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=swift&custom_title=My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anna-Nesterenko&show_icons=true&theme=swift&custom_title=GitHub_Stats" />
 </a>
