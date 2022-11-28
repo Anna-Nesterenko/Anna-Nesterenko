@@ -1,5 +1,5 @@
-## Hi there 👋, my name is Anna
-I'm a frontend developer 💻 Now looking for my team and my work position.
+## Hi there 👋, my name is Anny :)
+I'm a frontend developer 💻 Now I'm looking for my team and my work position.
 
 🕸️ Want to know more about me? [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=4AB197)](https://drive.google.com/file/d/1ZsttahYCaniMaE-G3ZXbbVLyc36_s_jx/view?usp=share_link)<br>
 🔭 I'm currently working on developing my pet project<br>
