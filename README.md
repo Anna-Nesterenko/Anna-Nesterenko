@@ -41,7 +41,7 @@ I'm a frontend developer 💻 Now I'm looking for my team and my work position.
 <details>
 <summary> &#x1f4c8; GitHub Stats</summary>
 <br>
-<div style="display:flex">
+<div display="flex" flex-wrap="nowrap">
 <a href="https://github.com/Anna-Nesterenko/github-readme-stats">
   <img align="center"  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Nesterenko&layout=compact&theme=vue-dark" />
 </a>
