@@ -2,8 +2,6 @@
 I'm a frontend developer 💻 Now I'm looking for my team and my work position.
 
 🕸️ Want to know more about me? [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=portfolio&logoColor=white&color=4AB197)](https://drive.google.com/file/d/1ZsttahYCaniMaE-G3ZXbbVLyc36_s_jx/view?usp=sharing)<br>
-🔭 I'm currently working on developing my pet project<br>
-🌱 I’m currently learning Node.js and Typescript<br>
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/anna-nesterenko-developer/)
 <br>
 ## 💼 Skills
